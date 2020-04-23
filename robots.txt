@@ -6,3 +6,6 @@ Disallow:
 
 # Nano
 Text-editor: 
+
+# Zumba
+# Boom
