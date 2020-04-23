@@ -19,3 +19,4 @@
 
     Chachacha, Latin Dance
     Waltz, Ballroom Dance
+    Quarantine, Lockdown
